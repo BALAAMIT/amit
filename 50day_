@@ -1,0 +1,31 @@
+# f = open('myflie3.txt','r')
+# while True:
+#     line = f.readline()
+#     print(line)
+#     if not line:
+# #         break
+# f = open("myfile2.txt","r")
+# i = 0 
+# while True:
+#     i += 1
+#     line = f.readline()
+#     if not line:
+#         break
+#     m2 = int(line.split(",")[1])
+#     m3 = int(line.split(",")[2])
+#     m1 = int(line.split(",")[0])
+#     print(f"marks is a student of {i} maths is :{m1}")
+#     print(f"marks is a student of {i} eng is :{m2}")
+#     print(f"marks is a student of {i} sst is :{m3}")
+
+# f = open("myfile4.txt","w")
+# line = ['line1\n','line2\n','line3\n']
+# f.writelines(line)
+# f.close()
+#secand methad00000
+
+f = open("myfile5.txt","w")
+line = ['line1','line2','line3']
+for i in line:
+    f.write(line + '\n')
+f.close

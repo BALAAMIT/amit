@@ -1,0 +1,40 @@
+Date: 7/3/2023
+Time: 1:45
+Phone Number: +917067622242
+Message: happy holi
+--------------------
+Date: 7/3/2023
+Time: 1:54
+Phone Number: +917076622242
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 1:56
+Phone Number: +91 70766 22242
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 1:57
+Phone Number: +91 7076622242
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 1:59
+Phone Number: +91 7076622242
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 2:0
+Phone Number: +91 7076622242
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 2:0
+Phone Number: +91 93735 14555
+Message: Test message from a Python script!
+--------------------
+Date: 7/3/2023
+Time: 2:2
+Phone Number: +91 amit42
+Message: Test message from a Python script!
+--------------------
